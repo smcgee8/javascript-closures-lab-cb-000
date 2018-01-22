@@ -26,7 +26,7 @@ function createAnimal(animalType) {
       deadlyDevice
     };
   }
-  return AddDevice
+  
 }
 
 var sharkCreator = createAnimal('Shark');
