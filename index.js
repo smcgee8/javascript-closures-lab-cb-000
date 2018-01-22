@@ -22,10 +22,8 @@ function createAnimal(animalType) {
 
   function (deadlyDevice) {
     return {
-      animalType;
-      deadlyDevice;
-    }
+      animalType,
+      deadlyDevice
+    };
   }
 }
-
-
